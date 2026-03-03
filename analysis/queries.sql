@@ -1,5 +1,5 @@
-Product Analyst Home Assignment - SQL Queries
- - Amit Eyal
+-- Product Analyst Home Assignment - SQL Queries
+-- Amit Eyal
 
 -- 0) Check for duplicate customers by CustomerID
   SELECT 
